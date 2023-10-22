@@ -6,7 +6,7 @@
                  Welcome! 👋
                  
 <img src="./img/listadebolsa.png" alt="Site em Telas" />
-<img src="./img/excluindo.png.png" alt="Site em Telas" />
+<img src="./img/excluindo2.png" alt="Site em Telas" />
 <img src="./img/bolsaexcluida.png" alt="Site em Telas" />
 ## Índice
 
