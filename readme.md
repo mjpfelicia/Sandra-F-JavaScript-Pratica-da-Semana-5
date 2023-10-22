@@ -6,7 +6,7 @@
                  Welcome! 👋
                  
 <img src="./img/listadebolsa.png" alt="Site em Telas" />
-<img src="./img/Captura de tela 2023-10-22 162027.png" alt="Site em Telas" />
+<img src="./img/excluindo.png.png" alt="Site em Telas" />
 <img src="./img/bolsaexcluida.png" alt="Site em Telas" />
 ## Índice
 
