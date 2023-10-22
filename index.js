@@ -25,7 +25,7 @@ do {
       tamanho,
       cor,
       marca,
-      
+
     }
 
     // Chamar a função inserir
@@ -70,10 +70,8 @@ function excluir_bolsa(codigo) {
 function listar_bolsa() {
   // Implementar corpo da função
   for (let index = 0; index < array_bolsa.length; index++) {
-
     const bolsa = array_bolsa[index];
-      
-    console.log(bolsa)
+    console.log('%j', bolsa)
   }
 }
 
