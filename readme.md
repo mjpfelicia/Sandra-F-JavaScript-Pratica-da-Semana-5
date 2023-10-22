@@ -30,7 +30,7 @@
 
 ## O que eu aprendi
 
-- 1. function inserir: esta função deve receber como parâmetro um objeto relacionado ao tema escolhido. O corpo da função deve apenas adicionar este novo elemento ao array. A função não irá retornar valor.
+1. function inserir: esta função deve receber como parâmetro um objeto relacionado ao tema escolhido. O corpo da função deve apenas adicionar este novo elemento ao array. A função não irá retornar valor.
 
 2.	function excluir: esta função deve receber o código como parâmetro. O corpo da função irá localizar o cadastro com o respectivo código no array e removê-lo. A função não irá retornar valor.
 
