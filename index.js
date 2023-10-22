@@ -33,7 +33,7 @@ do {
 
   } else if (opcao == 2) {
     console.log("\n\nExcluindo bolsa...\n");
-    let codigo = parseInt(prompt("Digite o código da bola: "));
+    let codigo = parseInt(prompt("Digite o código da bolsa: "));
     // Chamar a função excluir
     excluir_bolsa(codigo)
 
